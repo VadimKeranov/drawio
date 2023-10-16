@@ -1,29 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T18:46:24.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jvUbJ35DnfToUV5aBgIR" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T19:28:21.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0NQqtHO5uWICMTfbiZpp" version="22.0.4" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1396" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="1092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="21" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="497" y="317.5" width="160" height="133" as="geometry" />
+        <mxCell id="21" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;SearchHistory&lt;/p&gt;&lt;hr&gt;&amp;nbsp; id &lt;br&gt;&amp;nbsp;&amp;nbsp;user_id &lt;br&gt;&amp;nbsp;&amp;nbsp;Критерії пошуку&lt;br&gt;&amp;nbsp;&amp;nbsp;Дата та час пошуку" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+          <mxGeometry x="121" y="-293" width="160" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Universities&lt;/p&gt;&lt;hr&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &lt;b&gt;university_id&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; назва ВНЗ&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; регіон&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; місто&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; адреса&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="1.0000000000002274" y="69.00000000000068" width="160" height="150" as="geometry" />
+        <mxCell id="24" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Universities&lt;/p&gt;&lt;hr&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &lt;b&gt;id&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; назва ВНЗ&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; регіон&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; місто&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; адреса&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+          <mxGeometry x="-99.99999999999977" y="-41.99999999999932" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-25" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="237" y="307" width="160" height="154" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Competitions&lt;/p&gt;&lt;hr&gt;&amp;nbsp; id&lt;br&gt;&amp;nbsp;&amp;nbsp;specialty_id&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;форма навчання&lt;br&gt;&amp;nbsp;&amp;nbsp;конкурси минулого року" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="653" y="-35" width="160" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Competitions&lt;/p&gt;&lt;hr&gt;&amp;nbsp; competition_id&lt;br&gt;&amp;nbsp;&amp;nbsp;specialty_id&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;форма навчання&lt;br&gt;&amp;nbsp;&amp;nbsp;конкурси минулого року" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="673" y="48" width="160" height="154" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-27" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Specializations&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp; id&lt;br&gt;&amp;nbsp; specialty_id&lt;br&gt;&amp;nbsp;&amp;nbsp;назва спеціалізації" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="409" y="-37" width="160" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-27" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Specializations&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp;&amp;nbsp;specialization_id&lt;br&gt;&amp;nbsp; specialty_id&lt;br&gt;&amp;nbsp;&amp;nbsp;назва спеціалізації&lt;br&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="478" y="52" width="160" height="154" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-30" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u style=&quot;&quot;&gt;Specialties&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &lt;/b&gt;university_id&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; назва ВНЗ&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; регіон&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; місто&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; адреса&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="165.00000000000023" y="-34.99999999999932" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-30" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u style=&quot;&quot;&gt;Specialties&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;hr&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;university_id&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; назва ВНЗ&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; регіон&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; місто&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; адреса&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="299.0000000000002" y="78.00000000000068" width="160" height="150" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-33" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Payments&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp; id&lt;br&gt;&amp;nbsp;&amp;nbsp;specialty_id &lt;br&gt;&amp;nbsp; university_id&lt;br&gt;&amp;nbsp;&amp;nbsp;форма навчання&lt;br&gt;&amp;nbsp;&amp;nbsp;розмір оплати" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="409" y="151" width="160" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-33" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Specializations&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp;&amp;nbsp;specialization_id&lt;br&gt;&amp;nbsp; specialty_id&lt;br&gt;&amp;nbsp;&amp;nbsp;назва спеціалізації&lt;br&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="30" y="328" width="160" height="154" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-34" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Users&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp; id&lt;br&gt;&amp;nbsp; ФІО&lt;br&gt;&amp;nbsp;&amp;nbsp;електронна пошта&lt;br&gt;&amp;nbsp;&amp;nbsp;пароль" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-300" width="160" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.991;exitY=0.202;exitDx=0;exitDy=0;entryX=0;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="24" target="h30Kpubxtcf0mwcJ9HK3-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="49" as="sourcePoint" />
+            <mxPoint x="169" y="-1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107" y="-12" />
+              <mxPoint x="133" y="19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.997;exitY=0.204;exitDx=0;exitDy=0;entryX=0;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="h30Kpubxtcf0mwcJ9HK3-30" target="h30Kpubxtcf0mwcJ9HK3-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="11" as="sourcePoint" />
+            <mxPoint x="401" y="-39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="-4" />
+              <mxPoint x="376" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.006;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h30Kpubxtcf0mwcJ9HK3-27" target="h30Kpubxtcf0mwcJ9HK3-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="51" as="sourcePoint" />
+            <mxPoint x="638" y="1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="608" y="2" />
+              <mxPoint x="626" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.01;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.993;exitY=0.207;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h30Kpubxtcf0mwcJ9HK3-34" target="21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-263" as="sourcePoint" />
+            <mxPoint x="140" y="-272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="82" y="-268" />
+              <mxPoint x="97" y="-238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h30Kpubxtcf0mwcJ9HK3-30" target="h30Kpubxtcf0mwcJ9HK3-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353" y="82" as="sourcePoint" />
+            <mxPoint x="413" y="196" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" />
+              <mxPoint x="386" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.999;exitY=0.243;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24" target="h30Kpubxtcf0mwcJ9HK3-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="86" as="sourcePoint" />
+            <mxPoint x="138" y="36" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="94" y="-6" />
+              <mxPoint x="159" y="219" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
