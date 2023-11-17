@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T13:17:09.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2Q-XKQgxr0EHHbh4F3RM" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T13:23:23.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I1KsfwVmNBv3j4h4JjN1" version="22.1.3" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1900" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="24" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;University&lt;/p&gt;&lt;hr&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;b&gt;id_university&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; university_name&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; regon&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; city&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; address&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-273.9999999999998" y="-109.99999999999932" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;competition&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_&lt;/b&gt;competition&lt;b&gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp; specialization&lt;br&gt;&amp;nbsp; year_of_the_competition&lt;br&gt;&amp;nbsp; number_of_avaliable_places" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;competition&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_competition&lt;br&gt;&lt;/b&gt;&amp;nbsp; specialization&lt;br&gt;&amp;nbsp; year_of_the_competition&lt;br&gt;&amp;nbsp; number_of_avaliable_places" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="632" y="-52" width="160" height="154" as="geometry" />
         </mxCell>
         <mxCell id="h30Kpubxtcf0mwcJ9HK3-27" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;specialization&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_specialization&lt;/b&gt;&lt;br&gt;&amp;nbsp; &lt;span style=&quot;border-color: var(--border-color);&quot;&gt;specialties&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;specialization_name&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
@@ -74,9 +74,6 @@
         <mxCell id="nWHhcUQHi-I-M8yqkg9C-42" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="-42" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="nWHhcUQHi-I-M8yqkg9C-43" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="562" y="-276" width="25" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="nWHhcUQHi-I-M8yqkg9C-44" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="789" y="143" width="25" height="26" as="geometry" />
         </mxCell>
@@ -133,6 +130,12 @@
         </mxCell>
         <mxCell id="IYlGTyrrbtkykmEsmGgL-26" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="370" y="-292" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tLOy88uGL4WFafJAiMI6-25" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="-71" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tLOy88uGL4WFafJAiMI6-27" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="559" y="-278" width="25" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
