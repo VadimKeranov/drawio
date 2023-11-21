@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T13:23:23.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I1KsfwVmNBv3j4h4JjN1" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T11:29:39.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zjE16TrfMXXRV5pivDUV" version="22.1.3" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1635" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="24" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;University&lt;/p&gt;&lt;hr&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;b&gt;id_university&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; university_name&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; regon&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; city&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; address&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-273.9999999999998" y="-109.99999999999932" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;competition&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_competition&lt;br&gt;&lt;/b&gt;&amp;nbsp; specialization&lt;br&gt;&amp;nbsp; year_of_the_competition&lt;br&gt;&amp;nbsp; number_of_avaliable_places" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="632" y="-52" width="160" height="154" as="geometry" />
+        <mxCell id="h30Kpubxtcf0mwcJ9HK3-26" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;competition&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_competition&lt;br&gt;&lt;/b&gt;&amp;nbsp; specialization&lt;br&gt;&amp;nbsp; year_of_the_competition&lt;br&gt;&amp;nbsp; number_of_avaliable_places&lt;br&gt;&amp;nbsp; Number_of_applications_submitted&lt;br&gt;&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;Number_score_for_admission" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+          <mxGeometry x="632" y="-52" width="195" height="154" as="geometry" />
         </mxCell>
         <mxCell id="h30Kpubxtcf0mwcJ9HK3-27" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;specialization&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&amp;nbsp; &lt;b&gt;id_specialization&lt;/b&gt;&lt;br&gt;&amp;nbsp; &lt;span style=&quot;border-color: var(--border-color);&quot;&gt;specialties&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;specialization_name&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="399" y="-81" width="160" height="154" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="nWHhcUQHi-I-M8yqkg9C-34" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="332" y="-95" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="nWHhcUQHi-I-M8yqkg9C-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.992;entryY=0.44;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" target="h30Kpubxtcf0mwcJ9HK3-33" edge="1" source="h30Kpubxtcf0mwcJ9HK3-46">
+        <mxCell id="nWHhcUQHi-I-M8yqkg9C-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.992;entryY=0.44;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="h30Kpubxtcf0mwcJ9HK3-46" target="h30Kpubxtcf0mwcJ9HK3-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="796" y="196" as="sourcePoint" />
             <mxPoint x="612" y="192" as="targetPoint" />
@@ -131,10 +131,10 @@
         <mxCell id="IYlGTyrrbtkykmEsmGgL-26" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="370" y="-292" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tLOy88uGL4WFafJAiMI6-25" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="tLOy88uGL4WFafJAiMI6-25" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-115" y="-71" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tLOy88uGL4WFafJAiMI6-27" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="tLOy88uGL4WFafJAiMI6-27" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="559" y="-278" width="25" height="26" as="geometry" />
         </mxCell>
       </root>
